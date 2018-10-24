@@ -9,7 +9,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 ### Education
 * Ph.D. in Electrical Engineering, 2014-Present 
-   _Arizona State University_, AZ
+  * _Arizona State University_, AZ
   
 * M.Sc. in Electrical Engineering, 2011-2013
   * _Shahid Bahonar University of Kerman_, Iran
@@ -37,13 +37,13 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 * F. Hosseini G., M. Shahabinejad, M. Shahabinejad and S. Talebi, "Block Circular Delay Diversity Space-Frequency Codes with the Enhanced Performance," in _6th Int. Symposium on Telecommunications (IST)_, pp. 416-419, Tehran, Iran, Nov. 2012.
 
 ### Presentations
-* F. Hosseinigoki and O. Kosut, "Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding," Talk Given at _IEEE International Symposium on Information Theory (ISIT)_ at Vail, CO, Jun. 2018.
+* Talk on __Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding,__ at _IEEE International Symposium on Information Theory (ISIT)_ at Vail, CO, Jun. 2018.
 
-* F. Hosseinigoki and O. Kosut, "The Gaussian Interference Channel in the Presence of Malicious Jammers," Poster Presented at _Information Theory and Application Workshop (ITA)_ at University of California San Diego, San Diego, CA, Feb. 2018.
+* Poster on __The Gaussian Interference Channel in the Presence of Malicious Jammers,__ at _Information Theory and Application Workshop (ITA)_ at University of California San Diego, San Diego, CA, Feb. 2018.
 
-*	F. Hosseinigoki, "The Gaussian interference channel in the presence of a malicious jammer," Talk Given at _54th Annual Allerton Conference on Communication, Control, and Computing_, Monticello, IL, Sept. 2016.
+*	Talk on __The Gaussian interference channel in the presence of a malicious jammer,__ at _54th Annual Allerton Conference on Communication, Control, and Computing_, Monticello, IL, Sept. 2016.
 
-* F. Hosseinigoki and O. Kosut, "The Capacity Region of the Deterministic Interference Channel with a Jammer," Poster presented at _8th North American School of Information Theory (NASIT)_ at University of California San Diego, CA, Aug. 2015.
+* Poster on __The Capacity Region of the Deterministic Interference Channel with a Jammer,__ at _8th North American School of Information Theory (NASIT)_ at University of California San Diego, CA, Aug. 2015.
 
 ### Contact
 __Email:__ fhossei1 at asu dot edu
