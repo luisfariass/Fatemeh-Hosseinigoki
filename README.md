@@ -26,9 +26,9 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 * F. Hosseinigoki and O. Kosut, "Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding," in Proc. _IEEE International Symposium on Information Theory (ISIT)_, Vail, CO, Jun. 2018. 
 
-* F. Hosseinigoki and O. Kosut, "The Gaussian Interference Channel in the Presence of Malicious Jammers," submitted to _\textbf{IEEE Transaction on Information Theory_ on Dec. 2017.
+* F. Hosseinigoki and O. Kosut, "The Gaussian Interference Channel in the Presence of Malicious Jammers," submitted to _IEEE Transaction on Information Theory_ on Dec. 2017.
 
-* F. Hosseinigoki and O. Kosut, "The Gaussian Interference Channel in the Presence of a Malicious Jammer," in Proc. _54^th Annual Allerton Conference on Communication, Control, and Computing_, Monticello, IL, 2016, pp. 679-686.
+* F. Hosseinigoki and O. Kosut, "The Gaussian Interference Channel in the Presence of a Malicious Jammer," in Proc. _54th Annual Allerton Conference on Communication, Control, and Computing_, Monticello, IL, 2016, pp. 679-686.
 
 
 * M. Samavat, F. Hosseini G. and S. Talebi, "Performance Improving of MIMO-OFDM Block Codes by Achieving a Suboptimum Permutation Distance," in Proc. _2nd Majlesi Int. Symposium on Telecommunication Devices (MISTD)_, Tehran, Iran, Feb. 2014.
