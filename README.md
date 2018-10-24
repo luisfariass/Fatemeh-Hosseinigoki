@@ -39,4 +39,4 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 * M. Samavat, F. Hosseini G. and S. Talebi, "Alamouti Coding Scheme for Cooperative Relay Networks with Full Duplex Relaying," in Proc. _Iran Workshop on Communication and Information Theory (IWCIT)_, Tehran, Iran, May. 2013.
 
-* F. Hosseini G., M. Shahabinejad, M. Shahabinejad and S. Talebi, "Block Circular Delay Diversity Space-Frequency Codes with the Enhanced Performance," in Proc. _6th Int. Symposium on Telecommunications (IST)_.
+* F. Hosseini G., M. Shahabinejad, M. Shahabinejad and S. Talebi, "Block Circular Delay Diversity Space-Frequency Codes with the Enhanced Performance," in Proc. _6th Int. Symposium on Telecommunications (IST)_, pp. 416-419, Tehran, Iran, Nov. 2012.
