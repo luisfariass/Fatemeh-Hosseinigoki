@@ -5,8 +5,8 @@ I am currently a PhD student in ECEE at Arizona State University, working with p
 
 ### Research Interest
 
-- Bulleted Information Theory
-- Bulleted Optimization
-- Bulleted Machine Learning 
-- Bulleted Wireless Communication
+- Information Theory
+- Optimization
+- Machine Learning 
+- Wireless Communication
 
