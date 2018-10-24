@@ -46,4 +46,4 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 * F. Hosseinigoki and O. Kosut, "The Capacity Region of the Deterministic Interference Channel with a Jammer," Poster presented at _8th North American School of Information Theory (NASIT)_ at University of California San Diego, CA, Aug. 2015.
 
 ### Contact
-fhossei1 at asu dot edu
+__Email:__ fhossei1 at asu dot edu
