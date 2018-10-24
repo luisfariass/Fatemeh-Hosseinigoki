@@ -1,7 +1,6 @@
 ## Fatemeh Hosseinigoki
 I am currently a PhD student in ECEE at Arizona State University, working with [Oliver Kosut](https://sites.google.com/site/okosut/).
 
-
 ### Research Interest
 - Information Theory
 - Optimization
@@ -10,13 +9,13 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 ### Education
 * Ph.D. in Electrical Engineering, 2014-Present 
-  ###### _Arizona State University_, Tmepe, AZ
+  * _Arizona State University_, AZ
   
 * M.Sc. in Electrical Engineering, 2011-2013
-  * _Shahid Bahonar University of Kerman_, Kerman, Iran
+  * _Shahid Bahonar University of Kerman_, Iran
 
 * B.Sc. in Electrical Engineering, 2007-2011
-  * _Shahid Bahonar University of Kerman_, Kerman, Iran
+  * _Shahid Bahonar University of Kerman_, Iran
 
 
 ### Publications
