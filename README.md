@@ -1,7 +1,7 @@
 ## Fatemeh Hosseinigoki
 I am currently a PhD student in ECEE at Arizona State University, working with [Oliver Kosut](https://sites.google.com/site/okosut/).
 
-### Research Interest
+### Research Interests
 - Information Theory
 - Optimization
 - Machine Learning 
@@ -19,10 +19,6 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 
 ### Publications
-* F. Hosseinigoki and O. Kosut, "Capacity of Gaussian Arbitrarily-Varying Fading Channels," close to submission to _IEEE Transaction on Information Theory_. 
-
-* F. Hosseinigoki and O. Kosut, "Gaussian Arbitrarily-Varying Channel Capacity Using List Decoding," close to submission to _Entropy, Open Access Journal_. 
-
 * F. Hosseinigoki and O. Kosut, "Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding," in _IEEE International Symposium on Information Theory (ISIT)_, pp. 471-475, Vail, CO, Jun. 2018. 
 
 * F. Hosseinigoki and O. Kosut, "The Gaussian Interference Channel in the Presence of Malicious Jammers," submitted to _IEEE Transaction on Information Theory_ on Dec. 2017.
@@ -39,3 +35,15 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 * M. Samavat, F. Hosseini G. and S. Talebi, "Alamouti Coding Scheme for Cooperative Relay Networks with Full Duplex Relaying," in _Iran Workshop on Communication and Information Theory (IWCIT)_, Tehran, Iran, May. 2013.
 
 * F. Hosseini G., M. Shahabinejad, M. Shahabinejad and S. Talebi, "Block Circular Delay Diversity Space-Frequency Codes with the Enhanced Performance," in _6th Int. Symposium on Telecommunications (IST)_, pp. 416-419, Tehran, Iran, Nov. 2012.
+
+### Presentations
+* F. Hosseinigoki and O. Kosut, "Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding," Talk Given at _IEEE International Symposium on Information Theory (ISIT)_ at Vail, CO, Jun. 2018.
+
+* F. Hosseinigoki and O. Kosut, "The Gaussian Interference Channel in the Presence of Malicious Jammers," Poster Presented at _Information Theory and Application Workshop (ITA)_ at University of California San Diego, San Diego, CA, Feb. 2018.
+
+*	F. Hosseinigoki, "The Gaussian interference channel in the presence of a malicious jammer," Talk Given at _54th Annual Allerton Conference on Communication, Control, and Computing_, Monticello, IL, Sept. 2016.
+
+* F. Hosseinigoki and O. Kosut, "The Capacity Region of the Deterministic Interference Channel with a Jammer," Poster presented at _8th North American School of Information Theory (NASIT)_ at University of California San Diego, CA, Aug. 2015.
+
+### Contact
+fhossei1 at asu dot edu
