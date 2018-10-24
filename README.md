@@ -12,7 +12,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 ### Education
 
-* Ph.D. in Electrical Engineering, 2014-Present 
+:mortar_board: Ph.D. in Electrical Engineering, 2014-Present 
 
   * _Arizona State University_
   
