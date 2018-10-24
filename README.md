@@ -26,7 +26,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 * F. Hosseinigoki and O. Kosut, __The Gaussian Interference Channel in the Presence of a Malicious Jammer,__ in _54th Annual Allerton Conference on Communication, Control, and Computing_, pp. 679-686, Monticello, IL, 2016.
 
 
-* M. Samavat, F. Hosseini G. and S. Talebi, __Performance Improving of MIMO-OFDM Block Codes by Achieving a Suboptimum Permutation Distance,__ in _2nd Majlesi Int. Symposium on Telecommunication Devices (MISTD)_, Tehran, Iran, Feb. 2014.
+* M. Samavat, F. Hosseini G. and S. Talebi, __Performance Improving of MIMO-OFDM Block Codes by Achieving a Suboptimum Permutation Distance,__ in _Majlesi Int. Symposium on Telecommunication Devices (MISTD)_, Tehran, Iran, Feb. 2014.
 
 * M. Shahabinejad, F. Hosseini G. and S. Talebi, __Space-Frequency Codes Based on the Space-Time Codes with Very Low Complexity for the Decoder,__ _IEEE Transaction on Vehicular Technology_, vol. 62, no. 9, pp. 4678–4684, Nov. 2013.
 
