@@ -1,4 +1,4 @@
-## Fatemeh Hosseinigoki
+## About Me
 I am currently a PhD student in ECEE at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/).
 
 ### Research Interests
