@@ -5,6 +5,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 - Information Theory
 - Optimization
 - Machine Learning 
+- Active Adversaries
 - Wireless Communication
 
 ### Education
