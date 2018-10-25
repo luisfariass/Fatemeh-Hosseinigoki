@@ -45,7 +45,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 * Poster on __The Capacity Region of the Deterministic Interference Channel with a Jammer,__ at _8th North American School of Information Theory (NASIT)_ at University of California San Diego, CA, Aug. 2015.
 
 ### Contact
-__Email:__ fhossei1 at asu dot edu
+_Email:_ fhossei1 at asu dot edu
 
 ### CV
 Here is my [CV]().
