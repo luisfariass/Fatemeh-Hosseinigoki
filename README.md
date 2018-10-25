@@ -19,7 +19,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 
 ### Publications
-* F. Hosseinigoki and O. Kosut, __Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding,__ in _IEEE International Symposium on Information Theory (ISIT)_, pp. 471-475, Vail, CO, Jun. 2018. 
+* F. Hosseinigoki and O. Kosut, [__Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding](https://ieeexplore.ieee.org/document/8437866),__ in _IEEE International Symposium on Information Theory (ISIT)_, pp. 471-475, Vail, CO, Jun. 2018. 
 
 * F. Hosseinigoki and O. Kosut, __The Gaussian Interference Channel in the Presence of Malicious Jammers,__ submitted to _IEEE Transaction on Information Theory_ on Dec. 2017.
 
