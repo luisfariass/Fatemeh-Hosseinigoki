@@ -9,15 +9,11 @@ I am currently a PhD student in ECEE at Arizona State University, working with P
 - Wireless Communication
 
 ### Education
-* Ph.D. in Electrical Engineering, 2014-Present 
-  * _Arizona State University_, AZ
-  
-* M.Sc. in Electrical Engineering, 2011-2013
-  * _Shahid Bahonar University of Kerman_, Iran
+:mortar_board: Ph.D. in Electrical Engineering, _Arizona State University_, AZ, 2014-Present 
 
-* B.Sc. in Electrical Engineering, 2007-2011
-  * _Shahid Bahonar University of Kerman_, Iran
+:mortar_board: M.Sc. in Electrical Engineering, _Shahid Bahonar University of Kerman_, Iran, 2011-2013
 
+:mortar_board: B.Sc. in Electrical Engineering, _Shahid Bahonar University of Kerman_, Iran, 2007-2011
 
 ### Publications
 * F. Hosseinigoki and O. Kosut, [Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding](https://ieeexplore.ieee.org/document/8437866), in _IEEE International Symposium on Information Theory (ISIT)_, pp. 471-475, Vail, CO, Jun. 2018. 
