@@ -1,5 +1,5 @@
 ### About Me
-I am currently a PhD student in the School of Electrical, Computer and Energy Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/).
+I am currently a PhD student in Electrical Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/).
 
 ### Research Interests
 - Information Theory
