@@ -29,7 +29,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with [
 
 * M. Shahabinejad, F. Hosseini G. and S. Talebi, [Space-Frequency Codes Based on the Space-Time Codes with Very Low Complexity for the Decoder](https://ieeexplore.ieee.org/document/6516562), _IEEE Transaction on Vehicular Technology_, vol. 62, no. 9, pp. 4678–4684, Nov. 2013.
 
-* M. Samavat, F. Hosseini G., and S. Talebi, [Performance Improvement of MIMO-OFDM Block Codes by Achieving a Suboptimum Permutation Distance](file:///C:/Users/FHEE86/Downloads/113-433-1-PB4.pdf), _Majlesi Journal of Telecommunication Devices_, Vol. 2, No. 4, Dec. 2013.
+* M. Samavat, F. Hosseini G., and S. Talebi, [Performance Improvement of MIMO-OFDM Block Codes by Achieving a Suboptimum Permutation Distance](https://www.researchgate.net/profile/Mohammad_Samavat2/publication/318351100_Performance_Improvement_of_MIMO-OFDM_Block_Codes_by_Achieving_a_Suboptimum_Permutation_Distance/links/59652f5fa6fdcc69f148bbf6/Performance-Improvement-of-MIMO-OFDM-Block-Codes-by-Achieving-a-Suboptimum-Permutation-Distance.pdf), _Majlesi Journal of Telecommunication Devices_, Vol. 2, No. 4, Dec. 2013.
 
 * M. Samavat, F. Hosseini G. and S. Talebi, [Alamouti Coding Scheme for Cooperative Relay Networks with Full Duplex Relaying](https://ieeexplore.ieee.org/document/6555760), in _Iran Workshop on Communication and Information Theory (IWCIT)_, Tehran, Iran, May. 2013.
 
