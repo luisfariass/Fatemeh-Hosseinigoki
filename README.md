@@ -10,9 +10,7 @@ I am currently a PhD student in ECEE at Arizona State University, working with P
 
 ### Education
 * Ph.D. in Electrical Engineering, _Arizona State University_, AZ, 2014-Present 
-
 * M.Sc. in Electrical Engineering, _Shahid Bahonar University of Kerman_, Iran, 2011-2013
-
 * B.Sc. in Electrical Engineering, _Shahid Bahonar University of Kerman_, Iran, 2007-2011
 
 ### Publications
