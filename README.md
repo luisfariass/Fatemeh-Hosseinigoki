@@ -1,3 +1,7 @@
+Ph.D. Candidate
+
+[ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
+
 ### About Me
 I am currently a PhD student in Electrical Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/).
 
