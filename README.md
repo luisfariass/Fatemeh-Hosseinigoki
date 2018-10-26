@@ -6,6 +6,7 @@ I am currently a PhD student in Electrical Engineering at Arizona State Universi
 - Optimization
 - Machine Learning 
 - Active Adversaries
+- Self-driving Cars
 - Wireless Communication
 
 ### Education
