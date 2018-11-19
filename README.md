@@ -3,7 +3,7 @@ Ph.D. Candidate
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
 
 ### About Me
-I am currently a PhD student in Electrical Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/).
+I am currently a PhD student in Electrical Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/). I am working on finding the capacity of Gaussian communication channels in the presence of adversaries such as Gaussian multiple access channel, Gaussian broadcast channel, Gaussian interference channel and Gaussian fading channel.
 
 ### Research Interests
 - Information Theory
