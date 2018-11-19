@@ -3,7 +3,7 @@ Ph.D. Candidate
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
 
 ### About Me
-I am currently a fifth year PhD student in the School of Electrical, Computer and Energy Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory. During my PhD, I have worked on obtaining the capacity of Gaussian communication channels in the presence of adversaries such as Gaussian multiple access channels, Gaussian broadcast channels, Gaussian interference channels and Gaussian fading channels.
+I am currently a fifth year PhD student in the School of Electrical, Computer and Energy Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory. During my PhD, I have worked on obtaining the capacity of Gaussian communication channels in the presence of adversaries such as Gaussian multiple access channels, Gaussian broadcast channels, Gaussian interference channels and Gaussian fading channels. My current research interests lie in generative neural adversaries (GANs), differential privacy, and fairness in machine learning.
 
 ### Research Interests
 - Information Theory
