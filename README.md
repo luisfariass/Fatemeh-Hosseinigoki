@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="blue_sky.jpg">
+<img align="right" width="200" height="200" src="blue_sky.jpg">
 
 Ph.D. Candidate
 
