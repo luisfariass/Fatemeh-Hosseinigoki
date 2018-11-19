@@ -1,4 +1,4 @@
-![](blue_sky.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![](blue_sky.jpg)
 Ph.D. Candidate
 
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
