@@ -1,4 +1,4 @@
-![](blue_sky.jpg)
+![Fatemeh Hosseini](blue_sky.jpg)
 Ph.D. Candidate
 
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
