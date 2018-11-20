@@ -1,5 +1,5 @@
 
-![Fatemeh Hosseini](blue_sky.jpg)
+![Fatemeh Hosseini](arizona-state-university.jpg)
 # Fatemeh Hosseinigoki (Hosseini)<br/>
 Ph.D. Candidate<br/>
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
