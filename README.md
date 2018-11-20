@@ -1,4 +1,4 @@
-<img align="right" width="900" height="200" src="arizona-state-university - copy.jpg">
+<img align="right" width="900" height="200" src="arizona-state-university - Copy.jpg">
 
 # Fatemeh Hosseinigoki (Hosseini)<br/>
 Ph.D. Candidate<br/>
