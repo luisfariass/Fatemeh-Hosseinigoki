@@ -11,9 +11,8 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 - Machine Learning 
 - Information Theory
 - Optimization
-- Active Adversaries
-- Self-driving Cars
-- Wireless Communication
+- Autonomous Driving 
+- Wireless Communications
 
 ### Education
 * Ph.D. in Electrical Engineering, _Arizona State University_, AZ, 2014-Present 
