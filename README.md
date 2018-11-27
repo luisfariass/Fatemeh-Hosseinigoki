@@ -10,7 +10,7 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 ### Research Interests
 - Machine Learning
 - Computer Vision
-- Information Theory
+- Information Theory (Security and Privacy)
 - Optimization
 - Autonomous Driving 
 - Wireless Communications
