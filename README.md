@@ -21,7 +21,9 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 * B.Sc. in Electrical Engineering, _Shahid Bahonar University of Kerman_, Iran, 2007-2011
 
 ### Publications
-* F. Hosseinigoki and O. Kosut, Capacity of Gaussian Arbitrarily-Varying Fading Channels, accepted in _53rd Annual Conference on Information Systems & Sciences (CISS 2019)_. 
+* F. Hosseinigoki and O. Kosut, Capacity of Gaussian Arbitrarily-Varying Fading Channels, accepted in _53rd Annual Conference on Information Systems & Sciences (CISS 2019)_, Johns Hopkins University, Baltimore, MD, Mar. 2019. 
+
+* F. Hosseinigoki and O. Kosut, On the Fundamental limits of Gaussian Arbitrarily-Varying Fading Channels, close to submission to IEEE Transaction on Information Theory.
 
 * F. Hosseinigoki and O. Kosut, Stochastic Encoding and List-Decoding Techniques for the Gaussian Arbitrarily Varying Channel, close to submission to IEEE Transaction on Information Theory. 
 
