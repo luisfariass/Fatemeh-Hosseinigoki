@@ -8,12 +8,12 @@ Ph.D. Candidate<br/>
 I am currently a fifth year PhD student in the School of Electrical, Computer and Energy Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory. During my PhD, I have worked on obtaining the capacity of Gaussian communication channels in the presence of adversaries. My current research interests lie broadly in various areas of machine learning.
 
 ### Research Interests
+- Wireless Communications
+- Information Theory
 - Machine Learning
-- Computer Vision
-- Information Theory (Security and Privacy)
+- Security and Privacy
 - Optimization
 - Autonomous Driving 
-- Wireless Communications
 
 ### Education
 * Ph.D. in Electrical Engineering, _Arizona State University_, AZ, 2014-Present 
@@ -23,7 +23,7 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 ### Publications
 * F. Hosseinigoki and O. Kosut, Capacity of Gaussian Arbitrarily-Varying Fading Channels, accepted in _53rd Annual Conference on Information Systems & Sciences (CISS 2019)_. 
 
-* F. Hosseinigoki and O. Kosut, Gaussian Arbitrarily-Varying Channel Capacity Using List Decoding, close to submission to IEEE Transaction on Information Theory. 
+* F. Hosseinigoki and O. Kosut, Stochastic Encoding and List-Decoding Techniques for the Gaussian Arbitrarily Varying Channel, close to submission to IEEE Transaction on Information Theory. 
 
 * F. Hosseinigoki and O. Kosut, [Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding](https://ieeexplore.ieee.org/document/8437866), in _IEEE International Symposium on Information Theory (ISIT)_, pp. 471-475, Vail, CO, Jun. 2018. 
 
