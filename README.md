@@ -5,7 +5,7 @@ Ph.D. Candidate<br/>
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
 
 ### About Me
-I am currently a fifth year PhD student in the School of Electrical, Computer and Energy Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory. During my PhD, I have worked on obtaining the capacity of Gaussian communication channels in the presence of adversaries. My current research interests lie broadly in various areas of machine learning.
+I am currently a fifth year PhD student in the School of Electrical, Computer and Energy Engineering at Arizona State University, working with Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory. During my PhD, I have worked on obtaining the capacity of Gaussian communication channels in the presence of active adversaries. My current research interests lie broadly in wireless communications, information theory and various areas of machine learning.
 
 ### Research Interests
 - Wireless Communications
