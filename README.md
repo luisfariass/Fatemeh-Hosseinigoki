@@ -53,6 +53,3 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 
 ### Contact
 _Email:_ fhossei1 at asu dot edu
-
-### CV
-Here is my [CV](CV_FHosseini.pdf).
