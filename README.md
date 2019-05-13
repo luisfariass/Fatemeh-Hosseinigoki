@@ -24,9 +24,7 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 
 * F. Hosseinigoki and O. Kosut, List-Decoding Capacity of the Gaussian Arbitrarily-Varying Channel, submitted to _Entropy Journal_, Apr. 2019. 
 
-* F. Hosseinigoki and O. Kosut, Capacity of Gaussian Arbitrarily-Varying Fading Channels, in _2019 53rd Annual Conference on Information Sciences and Systems (CISS)_, pp. 1-6, Baltimore, MD, Mar. 2019. 
-
-* F. Hosseinigoki and O. Kosut, Stochastic Encoding and List-Decoding Techniques for the Gaussian Arbitrarily Varying Channel, close to submission to IEEE Transaction on Information Theory. 
+* F. Hosseinigoki and O. Kosut, [Capacity of Gaussian Arbitrarily-Varying Fading Channels](https://ieeexplore.ieee.org/document/8693030), in _2019 53rd Annual Conference on Information Sciences and Systems (CISS)_, pp. 1-6, Baltimore, MD, Mar. 2019. 
 
 * F. Hosseinigoki and O. Kosut, [Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding](https://ieeexplore.ieee.org/document/8437866), in _IEEE International Symposium on Information Theory (ISIT)_, pp. 471-475, Vail, CO, Jun. 2018. 
 
