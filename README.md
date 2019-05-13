@@ -43,6 +43,8 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 * F. Hosseini G., M. Shahabinejad, M. Shahabinejad and S. Talebi, [Block Circular Delay Diversity Space-Frequency Codes with the Enhanced Performance](https://ieeexplore.ieee.org/document/6483023), in _6th Int. Symposium on Telecommunications (IST)_, pp. 416-419, Tehran, Iran, Nov. 2012.
 
 ### Presentations
+* Talk on __Capacity of Gaussian Arbitrarily-Varying Fading Channels,__ at _Conference on Information Sciences and System (CISS)_ at Johns Hopkins University, Baltimore, MD, Mar. 2019.
+
 * Talk on __Capacity of the Gaussian Arbitrarily-Varying Channel with List Decoding,__ at _IEEE International Symposium on Information Theory (ISIT)_ at Vail, CO, Jun. 2018.
 
 * Poster on __The Gaussian Interference Channel in the Presence of Malicious Jammers,__ at _Information Theory and Application Workshop (ITA)_ at University of California San Diego, San Diego, CA, Feb. 2018.
