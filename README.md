@@ -10,7 +10,7 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 ### Research Interests
 - Information Theory
 - Machine Learning
-- Bitcoin and Blockchain
+- Blockchain in Bitcoin and Genomic Data
 - Security and Privacy
 - Wireless Communications
 
