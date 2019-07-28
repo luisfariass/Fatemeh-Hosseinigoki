@@ -9,9 +9,9 @@ I am currently a fifth year PhD student in the School of Electrical, Computer an
 
 ### Research Interests
 - Machine Learning
+- Model-Based Reinforcement Learning
 - Information Theory
 - Convex Optimization
-- Blockchain in Bitcoin and Genomic Data
 - Security and Privacy
 - Wireless Communications
 
