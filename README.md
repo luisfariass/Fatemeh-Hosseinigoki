@@ -22,7 +22,7 @@ I completed my PhD study in Electrical Engineering at Arizona State University, 
 ### Publications
 * F. Hosseinigoki and O. Kosut, On the Fundamental limits of Gaussian Arbitrarily-Varying Fading Channels, to be submitted to _IEEE Transaction on Information Theory_.
 
-* F. Hosseinigoki and O. Kosut, List-Decoding Capacity of the Gaussian Arbitrarily-Varying Channel, _Entropy Journal_, vol. 21, issue 6, Jun. 2019. 
+* F. Hosseinigoki and O. Kosut, [List-Decoding Capacity of the Gaussian Arbitrarily-Varying Channel](https://www.mdpi.com/1099-4300/21/6/575), _Entropy Journal_, vol. 21, issue 6, Jun. 2019. 
 
 * F. Hosseinigoki and O. Kosut, [Capacity of Gaussian Arbitrarily-Varying Fading Channels](https://ieeexplore.ieee.org/document/8693030), in _2019 53rd Annual Conference on Information Sciences and Systems (CISS)_, pp. 1-6, Baltimore, MD, Mar. 2019. 
 
