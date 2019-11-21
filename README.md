@@ -5,7 +5,7 @@ Ph.D.<br/>
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
 
 ### About Me
-I completed my PhD study in Electrical Engineering at Arizona State University, under the supervision of Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory on November 1st, 2019. During my PhD, I worked on obtaining the capacity of Gaussian communication channels in the presence of active adversaries. My current research interests lie broadly in information theory, computational biology and various areas of machine learning.
+I completed my PhD study in Electrical Engineering at Arizona State University, under the supervision of Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on November 1st, 2019. During my PhD, I worked on information theory and investigated the fundamental limits of the Gaussian communication networks in the presence of adversarial jammers. My current research interests lie broadly in information theory, scurity and privacy, and various areas of machine learning.
 
 ### Research Interests
 - Machine Learning
