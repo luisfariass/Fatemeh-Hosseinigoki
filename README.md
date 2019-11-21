@@ -5,7 +5,7 @@ Ph.D.<br/>
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
 
 ### About Me
-I completed my PhD study in Electrical, Computer and Energy Engineering at Arizona State University, under the supervision of Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory on November 2019. During my PhD, I worked on obtaining the capacity of Gaussian communication channels in the presence of active adversaries. My current research interests lie broadly in information theory, computational biology and various areas of machine learning.
+I completed my PhD study in Electrical Engineering at Arizona State University, under the supervision of Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on Information Theory on November 1st, 2019. During my PhD, I worked on obtaining the capacity of Gaussian communication channels in the presence of active adversaries. My current research interests lie broadly in information theory, computational biology and various areas of machine learning.
 
 ### Research Interests
 - Machine Learning
@@ -20,9 +20,9 @@ I completed my PhD study in Electrical, Computer and Energy Engineering at Arizo
 * B.Sc. in Electrical Engineering, _Shahid Bahonar University of Kerman_, Iran, 2007-2011
 
 ### Publications
-* F. Hosseinigoki and O. Kosut, On the Fundamental limits of Gaussian Arbitrarily-Varying Fading Channels, close to submission to _IEEE Transaction on Information Theory_.
+* F. Hosseinigoki and O. Kosut, On the Fundamental limits of Gaussian Arbitrarily-Varying Fading Channels, to be submitted to _IEEE Transaction on Information Theory_.
 
-* F. Hosseinigoki and O. Kosut, List-Decoding Capacity of the Gaussian Arbitrarily-Varying Channel, accepted in _Entropy Journal_, Apr. 2019. 
+* F. Hosseinigoki and O. Kosut, List-Decoding Capacity of the Gaussian Arbitrarily-Varying Channel, _Entropy Journal_, vol. 21, issue 6, Jun. 2019. 
 
 * F. Hosseinigoki and O. Kosut, [Capacity of Gaussian Arbitrarily-Varying Fading Channels](https://ieeexplore.ieee.org/document/8693030), in _2019 53rd Annual Conference on Information Sciences and Systems (CISS)_, pp. 1-6, Baltimore, MD, Mar. 2019. 
 
@@ -30,7 +30,7 @@ I completed my PhD study in Electrical, Computer and Energy Engineering at Arizo
 
 * F. Hosseinigoki and O. Kosut, [The Gaussian Interference Channel in the Presence of Malicious Jammers](https://arxiv.org/pdf/1712.04133.pdf), submitted to _IEEE Transaction on Information Theory_ on Dec. 2017.
 
-* F. Hosseinigoki and O. Kosut, [The Gaussian Interference Channel in the Presence of a Malicious Jammer](https://ieeexplore.ieee.org/document/7852297), in _54th Annual Allerton Conference on Communication, Control, and Computing_, pp. 679-686, Monticello, IL, 2016.
+* F. Hosseinigoki and O. Kosut, [The Gaussian Interference Channel in the Presence of a Malicious Jammer](https://ieeexplore.ieee.org/document/7852297), in _54th Annual Allerton Conference on Communication, Control, and Computing_, pp. 679-686, Monticello, IL, Sept. 2016.
 
 * M. Samavat, F. Hosseini G. and S. Talebi, Performance Improving of MIMO-OFDM Block Codes by Achieving a Suboptimum Permutation Distance, in _Majlesi Int. Symposium on Telecommunication Devices (MISTD)_, Tehran, Iran, Feb. 2014.
 
