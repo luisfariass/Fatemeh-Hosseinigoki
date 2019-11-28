@@ -20,7 +20,9 @@ I completed my PhD study in Electrical Engineering at Arizona State University, 
 * B.Sc. in Electrical Engineering, _Shahid Bahonar University of Kerman_, Iran, 2007-2011
 
 ### Publications
-* F. Hosseinigoki and O. Kosut, On the Fundamental limits of Gaussian Arbitrarily-Varying Fading Channels, to be submitted to _IEEE Transaction on Information Theory_.
+* F. Hosseinigoki and O. Kosut, Packing Lemmas for Gaussian Adversarial Channels with Application in Network Problems, to be submitted to _IEEE Transaction on Information Theory_. 
+
+* F. Hosseinigoki and O. Kosut, On the Fundamental Limits of Gaussian Arbitrarily-Varying Fading Channels, to be submitted to _IEEE Transaction on Information Theory_.
 
 * F. Hosseinigoki and O. Kosut, [List-Decoding Capacity of the Gaussian Arbitrarily-Varying Channel](https://www.mdpi.com/1099-4300/21/6/575), _Entropy Journal_, vol. 21, issue 6, Jun. 2019. 
 
