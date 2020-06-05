@@ -1,7 +1,7 @@
 <img align="right" width="1000" height="200" src="arizona-state-university - Copy.jpg">
 
 # Fatemeh Hosseinigoki (Hosseini)<br/>
-Ph.D.<br/>
+Ph.D. in Electrical Engineering <br/>
 [School of Electrical, Computer and Energy Engineering<br/>
 Arizona State University](https://ecee.engineering.asu.edu/)
 
