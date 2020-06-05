@@ -5,7 +5,7 @@ Ph.D.<br/>
 [ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
 
 ### About Me
-I completed my PhD study in Electrical Engineering at Arizona State University, under the supervision of Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on November 1st, 2019. During my PhD, I worked on information theory and investigated the fundamental limits of the Gaussian communication networks in the presence of adversarial jammers. My current research interests lie broadly in wireless communication, network information theory, security and privacy, and various areas of machine learning.
+I completed my PhD study in Electrical Engineering at Arizona State University, under the supervision of Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on November 1st, 2019. During my PhD, I worked on network information theory and investigated the fundamental limits of the Gaussian communication networks in the presence of adversarial jammers. My current research interests lie broadly in wireless communication, network information theory, security and privacy, and various areas of machine learning.
 
 ### Research Interests
 - Wireless Communications
@@ -22,6 +22,8 @@ I completed my PhD study in Electrical Engineering at Arizona State University, 
 * F. Hosseinigoki and O. Kosut, Packing Lemmas for Gaussian Adversarial Channels with Application in Network Problems, to be submitted to _IEEE Transaction on Information Theory_. 
 
 * F. Hosseinigoki and O. Kosut, On the Fundamental Limits of Gaussian Arbitrarily-Varying Fading Channels, to be submitted to _IEEE Transaction on Information Theory_.
+
+* F. Hosseinigoki and O. Kosut, Capacity Region of the Gaussian Arbitrarily-Varying Broadcast Channel,  accepted in _2020 IEEE International Symposium on Information Theory (ISIT)_. 
 
 * F. Hosseinigoki and O. Kosut, [List-Decoding Capacity of the Gaussian Arbitrarily-Varying Channel](https://www.mdpi.com/1099-4300/21/6/575), _Entropy Journal_, vol. 21, issue 6, Jun. 2019. 
 
