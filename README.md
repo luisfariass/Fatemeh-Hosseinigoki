@@ -2,7 +2,8 @@
 
 # Fatemeh Hosseinigoki (Hosseini)<br/>
 Ph.D.<br/>
-[ECEE, Arizona State University](https://ecee.engineering.asu.edu/)
+[School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/)
+Arizona State University
 
 ### About Me
 I completed my PhD study in Electrical Engineering at Arizona State University, under the supervision of Professor [Oliver Kosut](https://sites.google.com/site/okosut/) on November 1st, 2019. During my PhD, I worked on network information theory and investigated the fundamental limits of the Gaussian communication networks in the presence of adversarial jammers. My current research interests lie broadly in wireless communication, network information theory, security and privacy, and various areas of machine learning.
