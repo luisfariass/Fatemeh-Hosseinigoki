@@ -2,7 +2,7 @@
 
 # Fatemeh Hosseinigoki (Hosseini)<br/>
 Ph.D.<br/>
-[School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/)
+[School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/)<br/>
 Arizona State University
 
 ### About Me
